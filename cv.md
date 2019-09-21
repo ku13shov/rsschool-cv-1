@@ -44,4 +44,9 @@ RESUME
       background-color: chocolate;
     }
    ```
-6. 
+6. [Codeacademy](https://www.codecademy.com/)  
+   [Htmlacademy](https://htmlacademy.ru/)  
+7. [RSSchool](https://www.youtube.com/channel/UC578nebW2Mn-mNgjEArGZug)  
+   [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+8. Duolingo, Lingualeo  
+   [Английский язык по плейлистам](https://www.youtube.com/channel/UC_3oKG5Szq-m6Xz-MjRZgpw)
