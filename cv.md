@@ -3,8 +3,8 @@
 2. **Contact Info**  My mail: kuleshov000@gmail.com  My phone: +375 29 553 24 68
 3. **Summary**  I want to become a web-developer. This is my dream. I want to change my life, get out of my comfort zone, learn something new and constantly develop. I am sure that work in the field of IT will help me with this. I have absolutely no experience, but I quickly learn and do my best to progress day by day
 4. **Skills**  Basics HTML, basics CSS, basics syntax of JS, basics syntax of Python
-5. **Code examples**  ```css
-      h1 {
+5. **Code examples**  ```css  
+    h1 {
       font-size: 20px;
     }
 
@@ -40,8 +40,8 @@
 
     .player-4 .total {
       background-color: chocolate;
-    }
-   ```
+    }  
+    ```
 6. **Experience**  All my experience is based on  [Codeacademy](https://www.codecademy.com/) and  
    [Htmlacademy](https://htmlacademy.ru/)  
 7. **Education**  My specialty: техник-программист
