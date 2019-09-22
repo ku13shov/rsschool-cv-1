@@ -1,4 +1,4 @@
-RESUME
+**Junior Developer Resume**
 1. Roman Kulesh  
 2. GMAIL - kuleshov000@gmail.com  
    Discord - Roman Kulesh#2111  
