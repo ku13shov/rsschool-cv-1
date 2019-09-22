@@ -45,4 +45,4 @@
 ```
 6. **Experience**<br/>All my experience is based on  [Codeacademy](https://www.codecademy.com/) and [Htmlacademy](https://htmlacademy.ru/)  
 7. **Education**<br/>My specialty: техник-программист
-8. **English**<br/>I learn English myself from Duolingo, Lingualeo and [Yotube](https://www.youtube.com/channel/UC_3oKG5Szq-m6Xz-MjRZgpw)
+8. **English**<br/>I learn English myself from Duolingo, Lingualeo and [Youtube](https://www.youtube.com/channel/UC_3oKG5Szq-m6Xz-MjRZgpw)
