@@ -1,4 +1,5 @@
 body {
+  padding: 0 30px;
   background: #ffffff url("img/bg-page.png") no-repeat top center;
 }
 
@@ -6,7 +7,7 @@ body {
   font-weight: bold;
   font-size: 36px;
   line-height: 42px;
-  font-family: "Verdana", sans-serif;
+  font-family: 'Mansalva', cursive;
   text-align: center;
 }
 
@@ -15,7 +16,7 @@ p {
 }
 
 h3 {
-  margin: 0px;
+  margin: 5px;
 }
 
 .avatar-container {
@@ -26,9 +27,7 @@ h3 {
 }
 
 .resume-container {
-  margin-bottom: 30px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin: 30px 100px;
   padding: 20px;
   background-color: rgba(33, 116, 131, 0.7);
   border: 5px solid #4d74bb;
@@ -37,9 +36,23 @@ h3 {
   color: #ffffff;
 }
 
-footer {
-  margin-top: 30px;
-  padding-top: 10px;
-  color: #aaaaaa;
-  border-top: 1px solid #aaaaaa;
+pre,
+code {
+  background-color: #bae7eb;
+  border: 1px solid #5f5dac;
+  border-radius: 4px;
+  color: #221dad;
+  font-family: "Courier New", "Courier", monospace;
+  
+}
+
+pre {
+  margin: 0px 30px;
+  text-align: left;
+}
+
+pre code {
+  background-color: transparent;
+  border-radius: none;
+  border: none;
 }
