@@ -1,0 +1,58 @@
+body {
+  padding: 0 30px;
+  background: #ffffff url("img/bg-page.png") no-repeat top center;
+}
+
+.page-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  font-family: 'Mansalva', cursive;
+  text-align: center;
+}
+
+p {
+  margin: 0px;
+}
+
+h3 {
+  margin: 5px;
+}
+
+.avatar-container {
+  text-align: center;
+}
+.avatar {
+  border-radius: 40%;
+}
+
+.resume-container {
+  margin: 30px 100px;
+  padding: 20px;
+  background-color: rgba(33, 116, 131, 0.7);
+  border: 5px solid #4d74bb;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+  color: #ffffff;
+}
+
+pre,
+code {
+  background-color: #bae7eb;
+  border: 1px solid #5f5dac;
+  border-radius: 4px;
+  color: #221dad;
+  font-family: "Courier New", "Courier", monospace;
+  
+}
+
+pre {
+  margin: 0px 30px;
+  text-align: left;
+}
+
+pre code {
+  background-color: transparent;
+  border-radius: none;
+  border: none;
+}
