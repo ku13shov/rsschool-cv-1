@@ -2,14 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Resume</title>
+    <title>Curriculum Vitae</title>
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Mansalva&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <header>
-      <h1 class="page-title">Junior Developer Resume</h1>
+      <h1 class="page-title">Curriculum Vitae</h1>
     </header>
     <main>
       <div class="avatar-container">
@@ -20,78 +20,52 @@
         <p>Roman Kulesh</p>
 
         <h3>Contact Info</h3>
-        <p>My mail: kuleshov000@gmail.com</p>
-        <p><a>My phone: +375 29 553 24 68</a></p>
+        <ul class="contacts">
+          <li>My mail: kuleshov000@gmail.com</li>
+          <li>My phone: +375 29 553 24 68</li>
+        </ul>
 
         <h3>Summary</h3>
-        <p>I want to become a web-developer. This is my dream. 
-          I want to change my life,<br> 
-          get out of my comfort zone, learn something new and 
-          constantly develop. I am<br>
-          sure that work in the field of IT will help me with this. 
-          I have absolutely no experience,<br>
-          but I quickly learn and do my best to progress day by day</p>
+        <p>Hi, my name is Roman. I am 27 years old. I work in a factory and my goal is to become a front-end developer. I have successfully completed courses on site layout and now I want to learn javascript.</p>
 
         <h3>Skills</h3>
-        <p>Basics HTML, basics CSS, basics syntax of JS, basics syntax of Python</p>
+        <ul class="skills">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JS</li>
+          <li>Gulp</li>
+          <li>BEM</li>
+          <li>Git</li>
+          <li>Photoshop</li>
+          <li>Figma</li>
+        </ul>
 
-        <h3>Code examples</h2>
+        <h3>Code examples</h3>
         <pre><code>
-          h1 {
-            font-size: 20px;
-          }
-         
-          h1 + .results {
-            margin-top: 20px;
-          }
-         
-          th {
-            font-weight: normal;
-            background-color: #dad7f4;
-            text-align: left;
-          }
-         
-          td:nth-child(5) > span {
-            font-weight: bold;
-          }
-         
-          .disqualified {
-            text-decoration: line-through;
-          }
-         
-          .player-1 .total {
-            background-color: silver;
-          }
-         
-          .player-2 .total {
-            background-color: gold;
-          }
-         
-          .player-3 .total {
-            background-color: red;
-          }
-         
-          .player-4 .total {
-            background-color: chocolate;
-          }
+          let n = -256;
+          let s = Math.abs(n);
+          let i;
+
+          console.log(String(s).split('').reverse().join());
+          i = String(s).split('').reverse().join('');
+
+          console.log(Number(i));
         </code></pre>
        
         <h3>Experience</h3>
-        <p>All my experience is based on 
-        <a href="https://www.codecademy.com" target="_blank">CodeAcademy</a> 
-        and 
-        <a href="https://htmlacademy.ru/" target="_blank">HtmlAcademy</a>
-        </p>
-
-        <h3>Education</h3>
-        <p>My specialty: техник-программист</p>
+        <a href="https://ku13shov.github.io/ActiveBoxAnim/" target="_blank">Active Box landing</a>
+        <a href="https://ku13shov.github.io/MoGo/" target="_blank">Mo Go landing</a>
+        <a href="https://rolling-scopes-school.github.io/ku13shov-JS2020Q3/calculator/" target="_blank">Calculator</a>
+        <a href="https://rolling-scopes-school.github.io/ku13shov-JS2020Q3/momentum/" target="_blank">Momentum</a>
 
         <h3>English</h3>
-        <p>I learn English myself from Duolingo, Lingualeo and 
-        <a href="https://www.youtube.com/channel/UC_3oKG5Szq-m6Xz-MjRZgpw" target="_blank">Youtube</a>
-        </p>
-
+        <p>I learned German at school. I am learning English on my own. Estimated English level is B2.</p>
       </div>
     </main>
+    <footer class="footer">
+      <a href="https://github.com/ku13shov" target="_blank">
+        <img src="img/github-logo.svg" alt="github-logo">
+      </a>
+    </footer>
   </body>
 </html>

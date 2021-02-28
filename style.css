@@ -36,6 +36,15 @@ h3 {
   color: #ffffff;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
 pre,
 code {
   background-color: #bae7eb;
@@ -55,4 +64,12 @@ pre code {
   background-color: transparent;
   border-radius: none;
   border: none;
+}
+
+.footer {
+  text-align: center;
+}
+
+.footer img {
+  width: 50px;
 }
